@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\d12d62b1fa39e618b350e160674e355dfa9690b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e7baa57e9df1fa581552f0b3d6cdc902f114bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\AppData\Local\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_019003c29e4b71934c22743e961c6b88c3f02917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\f7c06254083e45b4a787373cb769ba0bd9d24f01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_def2e7ace02253da067b0a7b918164681b317107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\4bf5e8a33e50860f00814bc483c72ed13e62d1da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a60361cd9aafa32ed1e00de3737d8b0196c0c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\7c24ef671107479290fe1e2ff44aa95c4a0573a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaee28439ea5272e594c8b19ff40938569b04f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\a34b8c8ff2b0cb07bf737d64fe0602ef01697fc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f86ee250fd4265bf380c98f5ad81ec5624627718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f613bc038b5b4bcb3f78d3b336198043d62c6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1af656d8b905fef000c6c38687f915ea05462038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1358efd5038451ea6f43911a8850c1ca7445319b">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba78c8ad71edbb5a67f6de4d7d2f9cecae1197c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\ba94f1d3fc791bec23cfff63763c2da447b876f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_661fc64f01760077ece391a03b64d08aa93ca647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\55cb6abb4e979b4cb94ae579f9fb49183f97aa0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d47ebc62cf74102505bb1fb080fdc1dde1159ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\606eb71f63e87ba5e04a6208b0a3be7d5abbf4c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f38c62e1718954c89f4b6a8ed15903b8096e5d97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\394b5ef3f45256dd45669ca09ed526d7d2cb5845\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7222cdd3fa4f5729b81f7ecad54b2929be61ad5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\AKSHIT\AndroidStudioProjects\Newtest5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64cfe3004fee782dcde343cbd418808374bb24d6\classes.dex" />
+    </item>
+
+</items>

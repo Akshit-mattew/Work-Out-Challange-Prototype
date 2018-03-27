@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/alternatingbeat_00319" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00320" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00321" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00322" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00323" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00324" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00325" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00326" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00327" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00328" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00329" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00330" android:duration="70" />
+
+
+    <item android:drawable="@drawable/alternatingbeat_00330" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00329" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00328" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00327" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00326" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00325" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00324" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00323" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00322" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00321" android:duration="70" />
+    <item android:drawable="@drawable/alternatingbeat_00319" android:duration="70" />
+
+
+
+
+
+</animation-list>

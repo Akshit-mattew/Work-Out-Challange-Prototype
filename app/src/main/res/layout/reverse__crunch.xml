@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.akshitgupta.mr.newtest5.Reverse_Crunch">
+
+
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:width="200dp"
+        android:elevation="14dp"
+        android:fontFamily="sans-serif"
+        android:foregroundGravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal|center"
+        android:soundEffectsEnabled="true"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/redDarke"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:gravity="top|center_vertical"
+        tools:visibility="visible" />
+
+    <ToggleButton
+        android:id="@+id/ret"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="@android:color/transparent"
+        android:shadowColor="@android:color/background_light"
+        android:textColor="@color/colorWhite"
+        android:textOff=""
+        android:textOn=""
+        android:textSize="8sp"
+        android:visibility="visible"
+        tools:visibility="visible"
+        android:layout_alignBottom="@+id/text"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="12dp" />
+
+
+    <ImageButton
+        android:id="@+id/fwd"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:elevation="2dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/text"
+        android:onClick="fwd"
+        app:srcCompat="@drawable/back"
+        android:layout_marginRight="5dp"/>
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+
+        android:background="@android:color/white"
+        android:layout_above="@+id/textView4"
+        android:layout_alignEnd="@+id/fwd"
+        android:layout_marginBottom="99dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="19dp"
+        android:text=" Twist"
+        android:textSize="45dp"
+        android:textColor="@color/redDarke"
+
+
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+
+        android:text="TextVidetregtertergtertretreew" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/newf"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="12dp"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true" />
+
+
+
+
+</RelativeLayout>

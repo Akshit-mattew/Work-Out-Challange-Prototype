@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.akshitgupta.mr.newtest5">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.Light">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Workout"
+            android:label="workout_category"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".circuits"
+            android:label="sample" />
+        <activity
+            android:name=".Lower_Abs"
+            android:label="@string/title_activity_lower__abs"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Double_Twist"
+            android:label="@string/title_activity_oblique_abs"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".AboutExcer"
+            android:label="@string/title_activity_about_excer"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Sling_Sit_Ups"
+            android:label="@string/title_activity_sling_sit"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Alternating_Curls"
+            android:label="@string/title_activity_abs__alternating__curls"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Times"
+            android:label="@string/title_activity_abs__times"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Alternating_Beats"
+            android:label="@string/title_activity_abs__alternating"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Pressing_Up_Dumbles"
+            android:label="@string/title_activity_abs__pressing__up__dumbles"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Abs_Push_Through"
+            android:label="@string/title_activity_abs__push__through"
+            android:theme="@style/AppTheme.Light" />
+
+        <activity
+            android:name=".Abs_Vertical_Leg_Crunch"
+            android:label="@string/title_activity_abs__vertical__leg__crunch"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Alternating_Hammercurls"
+            android:label="@string/title_activity_arms__alternating__hammercurls"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Backpull_Ups"
+            android:label="@string/title_activity_arms__backpull__ups"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Barbel_Curls"
+            android:label="@string/title_activity_arms__barbel__curls"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Bench_Press"
+            android:label="@string/title_activity_arms__bench__press"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Oblique_Arms"
+            android:label="@string/title_activity_arms__oblique__arms"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Push_Ups"
+            android:label="@string/title_activity_arms__push__ups"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Arms_Shoulder_Burpees"
+            android:label="@string/title_activity_arms__bhoulder__burpees"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Triceps_Shoulder_Closure"
+            android:label="@string/title_activity_triceps__shoulder__closure"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Tricep_Dumbell_Tricep"
+            android:label="@string/title_activity_tricep__dumbell__tricep"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Triceps_Kick_Back"
+            android:label="@string/title_activity_triceps__kick__back"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".Triceps_Kick_Back_Sitting"
+            android:label="@string/title_activity_triceps__kick__back__sitting"
+            android:theme="@style/AppTheme.Light" />
+        <activity
+            android:name=".ForearmWristCurls"
+            android:label="@string/title_activity_forearm_wrist_curls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Reverse_Crunch"
+            android:label="@string/title_activity_reverse__crunch"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SoulderBent"
+            android:label="@string/title_activity_soulder_bent"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ShoulderCuban"
+            android:label="@string/title_activity_shoulder_cuban"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ShoulderDumbellFrontRaise"
+            android:label="@string/title_activity_shoulder_dumbell_front_raise"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".QuaricepJumpBurpees"
+            android:label="@string/title_activity_quaricep_jump_burpees"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".QuadtricepSpartanBlow"
+            android:label="@string/title_activity_quadtricep_spartan_blow"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LowerBackExtension"
+            android:label="@string/title_activity_lower_back_extension"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ShoulderBentOverLateralRaiseInclineBench"
+            android:label="@string/title_activity_shoulder_bent_over_lateral_raise_incline_bench"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BicepAlternatingHammerCurls"
+            android:label="@string/title_activity_bicep_alternating_hammer_curls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BicepsConcentrationCurls"
+            android:label="@string/title_activity_biceps_concentration_curls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BicepsReverseCurls"
+            android:label="@string/title_activity_biceps_reverse_curls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksBridging"
+            android:label="@string/title_activity_buttocks_bridging"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksHipAductionWithSwiisBall"
+            android:label="@string/title_activity_buttocks_hip_aduction_with_swiis_ball"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksConcentratedHipExtension"
+            android:label="@string/title_activity_buttocks_concentrated_hip_extension"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksHipExtensionKneeBent"
+            android:label="@string/title_activity_buttocks_hip_extension_knee_bent"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksLunges"
+            android:label="@string/title_activity_buttocks_lunges"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ButtocksHipExtensions"
+            android:label="@string/title_activity_buttocks_hip_extensions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CalfSeatedRaise"
+            android:label="@string/title_activity_calf_seated_raise"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CalfSeatedBarbelRaise"
+            android:label="@string/title_activity_calf_seated_barbel_raise"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FootAnkel"
+            android:label="@string/title_activity_foot_ankel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FootAtlasPushUp"
+            android:label="@string/title_activity_foot_atlas_push_up"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestSpartanPushUp"
+            android:label="@string/title_activity_chest_spartan_push_up"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestJumpingPushUps"
+            android:label="@string/title_activity_chest_jumping_push_ups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestKneePushUp"
+            android:label="@string/title_activity_chest_knee_push_up"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestPushUps"
+            android:label="@string/title_activity_chest_push_ups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestBenchPress"
+            android:label="@string/title_activity_chest_bench_press"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestDumbelSwissBall"
+            android:label="@string/title_activity_chest_dumbel_swiss_ball"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestHinduPushUps"
+            android:label="@string/title_activity_chest_hindu_push_ups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestKneePushUps"
+            android:label="@string/title_activity_chest_knee_push_ups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestPushUpKneeOnBench"
+            android:label="@string/title_activity_chest_push_up_knee_on_bench"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChestPushUpsIncline"
+            android:label="@string/title_activity_chest_push_upsm"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+    </application>
+
+</manifest>

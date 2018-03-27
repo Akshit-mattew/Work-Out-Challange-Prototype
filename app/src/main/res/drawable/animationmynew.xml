@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/abs_double_twist1_age_01" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_02" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_03" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_04" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_05" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_06" android:duration="10" />
+
+    <item android:drawable="@drawable/abs_double_twist1_age_08" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_09" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_10" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_11" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_12" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_13" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_14" android:duration="10" />
+
+    <item android:drawable="@drawable/abs_double_twist1_age_14" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_13" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_12" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_11" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_10" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_09" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_08" android:duration="10" />
+
+    <item android:drawable="@drawable/abs_double_twist1_age_06" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_05" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_04" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_03" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_02" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist1_age_01" android:duration="10" />
+
+
+
+    <item android:drawable="@drawable/abs_double_twist2_age_01" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_02" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_03" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_04" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_05" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_06" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_07" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_08" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_09" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_10" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_11" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_12" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_13" android:duration="10" />
+
+    <item android:drawable="@drawable/abs_double_twist2_age_13" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_12" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_11" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_10" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_09" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_08" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_07" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_06" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_05" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_04" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_03" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_02" android:duration="10" />
+    <item android:drawable="@drawable/abs_double_twist2_age_01" android:duration="10" />
+
+
+
+
+
+</animation-list>

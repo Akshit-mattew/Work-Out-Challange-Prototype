@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">FinalProject1</string>
+    <string name="title_activity_lower__abs">Lower_Abs</string>
+    <string name="title_activity_oblique_abs">Double Twist</string>
+    <string name="title_activity_about_excer">AboutExcer</string>
+    <string name="title_activity_sling_sit">Sling Sit</string>
+    <string name="title_activity_abs__alternating__curls">Alternating Curls</string>
+    <string name="title_activity_abs__times"> 4 Times</string>
+    <string name="title_activity_abs__alternating">Alternating Curls</string>
+    <string name="title_activity_abs__pressing__up__dumbles">Pressing Up Dumbles</string>
+    <string name="title_activity_abs__push__through">Push Through</string>
+    <string name="title_activity_abs__sling__sit__ups">Sling Sit Ups</string>
+    <string name="title_activity_abs__vertical__leg__crunch">Vertical Leg Crunch</string>
+    <string name="title_activity_arms__alternating__hammercurls">Alternating Hammer Curls
+    </string>
+    <string name="title_activity_arms__backpull__ups">Back Pull Ups</string>
+    <string name="title_activity_arms__barbel__curls">Barbel Curls</string>
+    <string name="title_activity_arms__bench__press">Bench Press</string>
+    <string name="title_activity_arms__oblique__arms">ObliquebArms</string>
+    <string name="title_activity_arms__push__ups">Push Ups</string>
+    <string name="title_activity_arms__bhoulder__burpees">Shoulder Burpees</string>
+    <string name="title_activity_triceps__shoulder__closure">Shoulder Closure</string>
+    <string name="title_activity_tricep__dumbell__tricep">Dumbell Tricep</string>
+    <string name="title_activity_triceps__kick__back">Kick Back</string>
+    <string name="title_activity_triceps__kick__back__sitting">Sitting Kick Back </string>
+    <string name="title_activity_forearm_wrist_curls">ForearmWristCurls</string>
+    <string name="title_activity_reverse__crunch">Reverse_Crunch</string>
+    <string name="title_activity_soulder_bent">SoulderBent</string>
+    <string name="title_activity_shoulder_cuban">ShoulderCuban</string>
+    <string name="title_activity_shoulder_dumbell_front_raise">ShoulderDumbellFrontRaise</string>
+    <string name="title_activity_quaricep_jump_burpees">QuaricepJumpBurpees</string>
+    <string name="title_activity_quadtricep_spartan_blow">QuadtricepSpartanBlow</string>
+    <string name="title_activity_lower_back_extension">LowerBackExtension</string>
+    <string name="title_activity_shoulder_bent_over_lateral_raise_incline_bench">
+        ShoulderBentOverLateralRaiseInclineBench
+    </string>
+    <string name="title_activity_bicep_alternating_hammer_curls">BicepAlternatingHammerCurls
+    </string>
+    <string name="title_activity_biceps_concentration_curls">BicepsConcentrationCurls</string>
+    <string name="title_activity_biceps_reverse_curls">Reverse Curls</string>
+    <string name="title_activity_buttocks_bridging">ButtocksBridging</string>
+    <string name="title_activity_buttocks_hip_aduction_with_swiis_ball">Hips Aduction</string>
+    <string name="title_activity_buttocks_concentrated_hip_extension">Hip Extension</string>
+    <string name="title_activity_buttocks_hip_extension_knee_bent">Knee Bent</string>
+    <string name="title_activity_buttocks_lunges">Lunges</string>
+    <string name="title_activity_buttocks_hip_extensions">Hip Extensions</string>
+    <string name="title_activity_calf_seated_raise">Seated Raise</string>
+    <string name="title_activity_calf_seated_barbel_raise">Seated Barbel Raise</string>
+    <string name="title_activity_foot_ankel">Ankel</string>
+    <string name="title_activity_foot_atlas_push_up">Atlas Push Ups</string>
+    <string name="title_activity_chest_spartan_push_up">Spartan Push Ups</string>
+    <string name="title_activity_chest_jumping_push_ups">Jumping Push Ups</string>
+    <string name="title_activity_chest_knee_push_up">Knee Push Ups</string>
+    <string name="title_activity_chest_push_ups">Push Ups</string>
+    <string name="title_activity_chest_bench_press">Bench Press</string>
+    <string name="title_activity_chest_dumbel_swiss_ball">Dumbel With Swiss Ball</string>
+    <string name="title_activity_chest_hindu_push_ups">Hindu Push Ups</string>
+    <string name="title_activity_chest_knee_push_ups">Knee Push Ups</string>
+    <string name="title_activity_chest_push_up_knee_on_bench">"Incline Push Ups "</string>
+    <string name="title_activity_chest_push_upsm">Push Ups</string>
+    <string name="title_activity_shoulder_burpees">Shoulder Burpees</string>
+</resources>

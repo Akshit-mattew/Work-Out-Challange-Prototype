@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Lower_Abs">
+
+    <group >
+        <item
+            android:id="@+id/mmy1"
+            android:orderInCategory="1"
+            android:title="About Excercise"
+            android:gravity="center">
+        </item>
+
+
+        <item
+            android:id="@+id/my"
+            android:title="  Developers"
+            android:orderInCategory="2"
+            android:gravity="center">
+        </item>
+
+
+    </group>
+
+</menu>
